@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.nandi.footballclub",
+    "sha256_cert_fingerprints":
+    ["14:F7:4E:0E:EE:BB:A2:49:05:D2:B9:AC:56:C5:A1:BA:7C:73:3E:AD:4E:18:14:B4:E1:FB:A2:D6:59:BF:A9:52"]
+  }
+}]
